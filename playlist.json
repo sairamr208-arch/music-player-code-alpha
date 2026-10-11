@@ -1,0 +1,96 @@
+{
+  "tracks": [
+    {
+      "id": "track-1",
+      "title": "Neon Grid Drift",
+      "artist": "Aethervoid",
+      "album": "Synthwave Cyberpunk Sessions",
+      "duration": 32,
+      "src": "assets/audio/synthwave_neon_grid.wav",
+      "sources": [
+        { "src": "assets/audio/synthwave_neon_grid.wav", "type": "audio/wav" }
+      ],
+      "cover": "assets/covers/cover_synthwave.jpg",
+      "genre": "Synthwave / Retrowave",
+      "lyrics": [
+        { "time": 0.0, "text": "[Intro: Neon Synthesizer Pulses]" },
+        { "time": 4.4, "text": "Cruising down the electric boulevard" },
+        { "time": 8.7, "text": "Chrome reflections under magenta skies" },
+        { "time": 13.1, "text": "The city never sleeps beneath the grid" },
+        { "time": 17.5, "text": "Bassline pounding through the midnight haze" },
+        { "time": 21.8, "text": "Speeding fast beyond the neon signs" },
+        { "time": 26.2, "text": "Lost inside the digital horizon" },
+        { "time": 29.5, "text": "[Outro: Synth Fade Out]" }
+      ]
+    },
+    {
+      "id": "track-2",
+      "title": "Rainy Night Café",
+      "artist": "Kairo Lofi",
+      "album": "Tokyo Rain & Warm Coffee",
+      "duration": 30,
+      "src": "assets/audio/rainy_night_cafe.wav",
+      "sources": [
+        { "src": "assets/audio/rainy_night_cafe.wav", "type": "audio/wav" }
+      ],
+      "cover": "assets/covers/cover_lofi.jpg",
+      "genre": "Lo-Fi / Chillhop",
+      "lyrics": [
+        { "time": 0.0, "text": "[Rain patter on window glass & vinyl crackle]" },
+        { "time": 3.8, "text": "Steam rising from a ceramic mug" },
+        { "time": 7.7, "text": "Warm golden lights in the corner booth" },
+        { "time": 11.5, "text": "Watching raindrops trace the glass outside" },
+        { "time": 15.4, "text": "Pages turn in quiet company" },
+        { "time": 19.2, "text": "Soft piano chords echo into midnight" },
+        { "time": 23.1, "text": "Just another peaceful rainy eve" },
+        { "time": 27.0, "text": "[Chill beat slowly settles]" }
+      ]
+    },
+    {
+      "id": "track-3",
+      "title": "Starglow Symphony",
+      "artist": "Celestial Odyssey",
+      "album": "Cosmic Sounds & Deep Nebula",
+      "duration": 32,
+      "src": "assets/audio/starglow_symphony.wav",
+      "sources": [
+        { "src": "assets/audio/starglow_symphony.wav", "type": "audio/wav" }
+      ],
+      "cover": "assets/covers/cover_cosmic.jpg",
+      "genre": "Ambient / Space Drone",
+      "lyrics": [
+        { "time": 0.0, "text": "[Deep space resonant drone]" },
+        { "time": 4.0, "text": "Floating past the rings of Saturn" },
+        { "time": 8.0, "text": "Whispers of ancient starlight across infinity" },
+        { "time": 12.0, "text": "Galaxies spinning in silent harmony" },
+        { "time": 16.0, "text": "Auroras dancing over cosmic tides" },
+        { "time": 20.0, "text": "Weightless in the glow of distant nebulae" },
+        { "time": 24.0, "text": "Drifting forever through celestial dreams" },
+        { "time": 28.0, "text": "[Shimmering chime fade]" }
+      ]
+    },
+    {
+      "id": "track-4",
+      "title": "Golden Coastline",
+      "artist": "Sunset Dreams",
+      "album": "Tropical Horizons & Warm Breeze",
+      "duration": 30,
+      "src": "assets/audio/golden_coastline.wav",
+      "sources": [
+        { "src": "assets/audio/golden_coastline.wav", "type": "audio/wav" }
+      ],
+      "cover": "assets/covers/cover_golden.jpg",
+      "genre": "Indie Chill / Tropical",
+      "lyrics": [
+        { "time": 0.0, "text": "[Ocean waves & acoustic guitar pluck]" },
+        { "time": 3.7, "text": "Sun sinks low into the amber sea" },
+        { "time": 7.5, "text": "Warm sand cooling beneath our feet" },
+        { "time": 11.2, "text": "Palm trees swaying in the twilight breeze" },
+        { "time": 15.0, "text": "Holding on to summer memories" },
+        { "time": 18.7, "text": "Golden hour glows before the night arrives" },
+        { "time": 22.5, "text": "Sunset rhythms taking all our cares away" },
+        { "time": 26.2, "text": "[Tropical percussion outro]" }
+      ]
+    }
+  ]
+}
